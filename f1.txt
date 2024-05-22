@@ -1,1 +1,3 @@
-Machine learning 
+Machine learning
+deep learning 
+big data 
